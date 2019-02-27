@@ -1,6 +1,6 @@
 # ITSDC Project : Traffic Light Classifier
 
-In this project, you’ll use your knowledge of computer vision techniques to build a classifier for images of traffic lights! You'll be given a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
+In this project, you’ll use your knowledge of computer vision techniques to build a classifier for images of traffic lights! You'll be given a [dataset](https://drive.google.com/open?id=17yAxJDLnAEXyROO3lUsFFiLZXvwFu-PW) of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
 | ![all_lights](images/all_lights.png) |
 |:---:|
